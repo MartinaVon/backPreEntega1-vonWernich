@@ -1,0 +1,20 @@
+[
+	{
+		"title": "remeron",
+		"description": "verde",
+		"price": 200,
+		"thumbnail": "url",
+		"code": "0032",
+		"stock": "7",
+		"id": 1
+	},
+	{
+		"title": "vestido",
+		"description": "verde",
+		"price": 200,
+		"thumbnail": "url",
+		"code": "0025",
+		"stock": "7",
+		"id": 2
+	}
+]
